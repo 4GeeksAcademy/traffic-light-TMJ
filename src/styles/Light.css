@@ -1,0 +1,14 @@
+.light {
+    width: 60px;
+    height: 60px;
+    margin-top: 10px;
+    border-radius: 150px;
+}
+
+.encendido {
+    box-shadow: 0 0 5px 5px yellow;
+}
+
+.apagado {
+    opacity: 0.4;
+}
